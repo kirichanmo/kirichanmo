@@ -41,9 +41,3 @@
   <source media="(prefers-color-scheme: light)" srcset="https://readme-typing-svg.demolab.com?font=Special+Elite&size=14&pause=800&color=e0e0e0&center=true&vCenter=true&random=false&width=350&lines=%C2%B7+%C2%B7+%C2%B7+%C2%B7++%C2%B7++%C2%B7+%E2%94%80+%C2%B7+%C2%B7++%C2%B7+%C2%B7+%C2%B7+%E2%94%80+%C2%B7++%E2%94%80+%E2%94%80++%C2%B7" />
   <a href="https://github.com/kirichanmo/clmystery-ja"><img src="https://readme-typing-svg.demolab.com?font=Special+Elite&size=14&pause=800&color=4a3030&center=true&vCenter=true&random=false&width=350&lines=%C2%B7+%C2%B7+%C2%B7+%C2%B7++%C2%B7++%C2%B7+%E2%94%80+%C2%B7+%C2%B7++%C2%B7+%C2%B7+%C2%B7+%E2%94%80+%C2%B7++%E2%94%80+%E2%94%80++%C2%B7" /></a>
 </picture>
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.demolab.com?font=Noto+Sans+JP&size=16&pause=500&color=4a2020&center=true&vCenter=true&random=false&width=300&lines=%E3%81%9F%E3%81%99%E3%81%91%E3%81%A6+.+.+." />
-  <source media="(prefers-color-scheme: light)" srcset="https://readme-typing-svg.demolab.com?font=Noto+Sans+JP&size=16&pause=500&color=f5f5f5&center=true&vCenter=true&random=false&width=300&lines=%E3%81%9F%E3%81%99%E3%81%91%E3%81%A6+.+.+." />
-  <a href="https://github.com/kirichanmo/clmystery-ja"><img src="https://readme-typing-svg.demolab.com?font=Noto+Sans+JP&size=16&pause=500&color=4a2020&center=true&vCenter=true&random=false&width=300&lines=%E3%81%9F%E3%81%99%E3%81%91%E3%81%A6+.+.+." /></a>
-</picture>
