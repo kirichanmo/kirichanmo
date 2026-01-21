@@ -33,3 +33,17 @@
 𓂃 𓈒 𓏸 ⟡ ゚ .*♡ ₊˚ 𓂃★ ₊ ゚⊹
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=FF69B4&height=100&section=footer" width="100%"/>
+
+<br><br>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.demolab.com?font=Special+Elite&size=14&pause=800&color=4a3030&center=true&vCenter=true&random=false&width=350&lines=%C2%B7+%C2%B7+%C2%B7+%C2%B7++%C2%B7++%C2%B7+%E2%94%80+%C2%B7+%C2%B7++%C2%B7+%C2%B7+%C2%B7+%E2%94%80+%C2%B7++%E2%94%80+%E2%94%80++%C2%B7" />
+  <source media="(prefers-color-scheme: light)" srcset="https://readme-typing-svg.demolab.com?font=Special+Elite&size=14&pause=800&color=e0e0e0&center=true&vCenter=true&random=false&width=350&lines=%C2%B7+%C2%B7+%C2%B7+%C2%B7++%C2%B7++%C2%B7+%E2%94%80+%C2%B7+%C2%B7++%C2%B7+%C2%B7+%C2%B7+%E2%94%80+%C2%B7++%E2%94%80+%E2%94%80++%C2%B7" />
+  <a href="https://github.com/kirichanmo/clmystery-ja"><img src="https://readme-typing-svg.demolab.com?font=Special+Elite&size=14&pause=800&color=4a3030&center=true&vCenter=true&random=false&width=350&lines=%C2%B7+%C2%B7+%C2%B7+%C2%B7++%C2%B7++%C2%B7+%E2%94%80+%C2%B7+%C2%B7++%C2%B7+%C2%B7+%C2%B7+%E2%94%80+%C2%B7++%E2%94%80+%E2%94%80++%C2%B7" /></a>
+</picture>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.demolab.com?font=Special+Elite&size=16&pause=500&color=4a2020&center=true&vCenter=true&random=false&width=300&lines=t+a+s+u+k+e+t+e+.+.+." />
+  <source media="(prefers-color-scheme: light)" srcset="https://readme-typing-svg.demolab.com?font=Special+Elite&size=16&pause=500&color=e8e8e8&center=true&vCenter=true&random=false&width=300&lines=t+a+s+u+k+e+t+e+.+.+." />
+  <a href="https://github.com/kirichanmo/clmystery-ja"><img src="https://readme-typing-svg.demolab.com?font=Special+Elite&size=16&pause=500&color=4a2020&center=true&vCenter=true&random=false&width=300&lines=t+a+s+u+k+e+t+e+.+.+." /></a>
+</picture>
