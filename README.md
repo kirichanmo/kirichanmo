@@ -43,7 +43,7 @@
 </picture>
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.demolab.com?font=Special+Elite&size=16&pause=500&color=4a2020&center=true&vCenter=true&random=false&width=300&lines=t+a+s+u+k+e+t+e+.+.+." />
-  <source media="(prefers-color-scheme: light)" srcset="https://readme-typing-svg.demolab.com?font=Special+Elite&size=16&pause=500&color=e8e8e8&center=true&vCenter=true&random=false&width=300&lines=t+a+s+u+k+e+t+e+.+.+." />
-  <a href="https://github.com/kirichanmo/clmystery-ja"><img src="https://readme-typing-svg.demolab.com?font=Special+Elite&size=16&pause=500&color=4a2020&center=true&vCenter=true&random=false&width=300&lines=t+a+s+u+k+e+t+e+.+.+." /></a>
+  <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.demolab.com?font=Noto+Sans+JP&size=16&pause=500&color=4a2020&center=true&vCenter=true&random=false&width=300&lines=%E3%81%9F%E3%81%99%E3%81%91%E3%81%A6+.+.+." />
+  <source media="(prefers-color-scheme: light)" srcset="https://readme-typing-svg.demolab.com?font=Noto+Sans+JP&size=16&pause=500&color=f5f5f5&center=true&vCenter=true&random=false&width=300&lines=%E3%81%9F%E3%81%99%E3%81%91%E3%81%A6+.+.+." />
+  <a href="https://github.com/kirichanmo/clmystery-ja"><img src="https://readme-typing-svg.demolab.com?font=Noto+Sans+JP&size=16&pause=500&color=4a2020&center=true&vCenter=true&random=false&width=300&lines=%E3%81%9F%E3%81%99%E3%81%91%E3%81%A6+.+.+." /></a>
 </picture>
