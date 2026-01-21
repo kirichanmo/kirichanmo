@@ -19,11 +19,9 @@
   <img src="https://streak-stats.demolab.com?user=kirichanmo&background=1a1b27&ring=FF69B4&fire=FF69B4&currStreakLabel=FF69B4&border=FF69B4&stroke=c9d1d9&currStreakNum=c9d1d9&sideNums=c9d1d9&sideLabels=c9d1d9&dates=c9d1d9" />
 </picture>
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/kirichanmo/kirichanmo/main/assets/divider1.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/kirichanmo/kirichanmo/main/assets/divider1-light.svg" />
-  <img src="https://raw.githubusercontent.com/kirichanmo/kirichanmo/main/assets/divider1.svg" width="100%" />
-</picture>
+
+˚ ༘ ♡ ⋆˙ ꒰ა ♡ ໒꒱ ˚ ༘ ♡ ⋆˙ ˚ ༘ ♡ ⋆˙ ꒰ა ♡ ໒꒱ ˚ ༘ ♡ ⋆˙
+
 
 ## ✧˚ ༘ ⋆ 𝐂𝐨𝐧𝐭𝐫𝐢𝐛𝐮𝐭𝐢𝐨𝐧 𝐒𝐧𝐚𝐤𝐞 ⋆ ༘ ˚✧
 
@@ -33,11 +31,9 @@
   <img src="https://github.com/kirichanmo/kirichanmo/blob/output/github-contribution-grid-snake-dark.svg" />
 </picture>
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/kirichanmo/kirichanmo/main/assets/divider2.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/kirichanmo/kirichanmo/main/assets/divider2-light.svg" />
-  <img src="https://raw.githubusercontent.com/kirichanmo/kirichanmo/main/assets/divider2.svg" width="100%" />
-</picture>
+
+𓂃 𓈒 𓏸 ⟡ ゚ .*♡ ₊˚ 𓂃★ ₊ ゚⊹ 𓂃 𓈒 𓏸 ⟡ ゚ .*♡ ₊˚ 𓂃★ ₊ ゚⊹
+
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=FF69B4&height=100&section=footer" width="100%"/>
 
